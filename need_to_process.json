@@ -1,0 +1,177 @@
+{
+    "id": 1,
+    "annotations": [
+      {
+        "id": 148,
+        "completed_by": 1,
+        "result": [
+          {
+            "original_width": 100,
+            "original_height": 89,
+            "image_rotation": 0,
+            "value": {
+              "points": [
+                [
+                  26.56716417910448,
+                  10.44776119402985
+                ],
+                [
+                  67.08208955223881,
+                  15.485074626865671
+                ],
+                [
+                  68.24440298507463,
+                  51.679104477611936
+                ],
+                [
+                  27.065298507462686,
+                  46.26865671641791
+                ]
+              ],
+              "closed": true
+            },
+            "id": "E3sKDVlefm",
+            "from_name": "poly",
+            "to_name": "image",
+            "type": "polygon",
+            "origin": "manual"
+          },
+          {
+            "original_width": 100,
+            "original_height": 89,
+            "image_rotation": 0,
+            "value": {
+              "points": [
+                [
+                  26.56716417910448,
+                  10.44776119402985
+                ],
+                [
+                  67.08208955223881,
+                  15.485074626865671
+                ],
+                [
+                  68.24440298507463,
+                  51.679104477611936
+                ],
+                [
+                  27.065298507462686,
+                  46.26865671641791
+                ]
+              ],
+              "closed": true,
+              "text": [
+                "30E"
+              ]
+            },
+            "id": "E3sKDVlefm",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_width": 100,
+            "original_height": 89,
+            "image_rotation": 0,
+            "value": {
+              "points": [
+                [
+                  13.953513322532837,
+                  46.64179104477608
+                ],
+                [
+                  83.8257686739513,
+                  54.37584803256441
+                ],
+                [
+                  86.17723880597022,
+                  93.65671641791042
+                ],
+                [
+                  13.449626865671652,
+                  82.05563093622794
+                ]
+              ],
+              "closed": true
+            },
+            "id": "6vf7G8adnt",
+            "from_name": "poly",
+            "to_name": "image",
+            "type": "polygon",
+            "origin": "manual"
+          },
+          {
+            "original_width": 100,
+            "original_height": 89,
+            "image_rotation": 0,
+            "value": {
+              "points": [
+                [
+                  13.953513322532837,
+                  46.64179104477608
+                ],
+                [
+                  83.8257686739513,
+                  54.37584803256441
+                ],
+                [
+                  86.17723880597022,
+                  93.65671641791042
+                ],
+                [
+                  13.449626865671652,
+                  82.05563093622794
+                ]
+              ],
+              "closed": true,
+              "text": [
+                "825.94"
+              ]
+            },
+            "id": "6vf7G8adnt",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2024-04-26T00:18:10.442274Z",
+        "updated_at": "2024-04-26T00:18:10.442274Z",
+        "draft_created_at": "2024-04-26T00:17:36.484272Z",
+        "lead_time": 44.053,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "38bf9eca-b640-4137-abe7-dec2b8b9d25b",
+        "import_id": null,
+        "last_action": null,
+        "task": 1,
+        "project": 12,
+        "updated_by": 1,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "96e737b2-180.jpg",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "ocr": "/data/upload/12/96e737b2-180.jpg"
+    },
+    "meta": {},
+    "created_at": "2024-04-25T14:58:10.496564Z",
+    "updated_at": "2024-04-26T00:18:10.479708Z",
+    "inner_id": 1,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 12,
+    "updated_by": 1,
+    "comment_authors": []
+  }
